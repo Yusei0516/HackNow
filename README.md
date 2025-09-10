@@ -119,7 +119,7 @@ Webアプリ： http://localhost:8000
 6. CloudWatchでログ・監視を設定
 
 ---
-## アーキテクチャ図
+## インフラ構成図
 <img width="1099" height="744" alt="image" src="https://github.com/user-attachments/assets/887488c0-e335-4a22-bc1a-69a0add022b6" />
 
 
